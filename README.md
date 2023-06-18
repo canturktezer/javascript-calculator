@@ -4,7 +4,7 @@ This is a simple JavaScript calculator that allows you to perform basic arithmet
 
 Preview
 
-You can see a preview of the pricing section in the "pricing.png" file included in this repository.
+You can see a preview of the pricing section in the "calculator.png" file included in this repository.
 
 Getting Started
 
